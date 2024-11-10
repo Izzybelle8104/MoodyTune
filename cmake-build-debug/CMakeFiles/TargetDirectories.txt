@@ -1,0 +1,3 @@
+C:/Users/ISABE/OneDrive/Documents/GitHub/MoodyTune/cmake-build-debug/CMakeFiles/MoodyTune.dir
+C:/Users/ISABE/OneDrive/Documents/GitHub/MoodyTune/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ISABE/OneDrive/Documents/GitHub/MoodyTune/cmake-build-debug/CMakeFiles/rebuild_cache.dir
